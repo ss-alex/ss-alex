@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ss-alex, self-taught developer
 - 👀 I’m interested in iOS Mobile Development with Swift programming language
-- 🌱 I’m currently learning Firebase 
+- 📚 My technology stack: Swift, SwiftUI, UIKit, No storyboards (UI with code), CoreData, SQLite, Firebase, REST API, MVC, MVVM, VIPER
 - 📫 DM me in my mailbox: masonry58@gmail.com
 
 <!---
